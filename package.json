@@ -4,7 +4,7 @@
   "keywords": [
     "Google Meet"
   ],
-  "license": "Apache-2.0",
+  "license": "Priate",
   "scripts": {
     "build": "mkdir -p ./dist/hello-world && cp src/*.html ./dist/hello-world/ && npx webpack"
   },
