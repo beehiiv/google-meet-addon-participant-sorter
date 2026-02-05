@@ -1,0 +1,17 @@
+{
+  "addOns": {
+    "common": {
+      "name": "Participant Sorter",
+      "logoUrl": "LOGO_URL"
+    },
+    "meet": {
+      "web": {
+        "sidePanelUrl": "SIDE_PANEL_URL",
+        "supportsScreenSharing": SUPPORTS_SCREENSHARING,
+        "addOnOrigins": ["ADD_ON_ORIGINS"],
+        "logoUrl": "MEET_WEB_LOGO_URL",
+        "darkModeLogoUrl": "DARK_MODE_LOGO_URL"
+      }
+    }
+  }
+}

@@ -14,9 +14,9 @@
 
 import { meet } from '@googleworkspace/meet-addons/meet.addons';
 
-const CLOUD_PROJECT_NUMBER = '989911054302';
+const CLOUD_PROJECT_NUMBER = '873625356822';
 const MAIN_STAGE_URL =
-  'https://googleworkspace.github.io/meet/hello-world/MainStage.html';
+  'http://beehiiv.github.io/google-meet-addon-participant-sorter/dist/hello-world/MainStage.html';
 
 /**
  * Prepares the Add-on Side Panel Client, and adds an event to launch the
